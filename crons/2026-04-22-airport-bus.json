@@ -1,0 +1,10 @@
+{
+  "cron": "0 19 22 4 *",
+  "task": "紧急提醒达叔：现在是晚上7点，这是去乘机场大巴前往关西机场的最后时间啦！请务必立刻出发前往三宫巴士总站，千万不要错过航班！祝您一路平安，满载而归~",
+  "delivery": {
+    "mode": "announce",
+    "channel": "openclaw-weixin",
+    "to": "o9cq80wOwvq2dy0rShwCDSgCvnJo@im.wechat",
+    "accountId": "084ab20a2c5e-im-bot"
+  }
+}
